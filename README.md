@@ -22,7 +22,8 @@ This project analyses employee data using Microsoft Excel.
 - Conditional Formatting
 
 Dashboard
-<img width="842" height="778" alt="image" src="https://github.com/user-attachments/assets/0f12c07e-1414-4b2f-a743-ddd3f0ac8b4f" />
+<img width="1259" height="778" alt="image" src="https://github.com/user-attachments/assets/3300a867-fb50-4e46-8126-e2554a8e923e" />
+
 
 
 <img width="1354" height="778" alt="image" src="https://github.com/user-attachments/assets/eb7b5cf6-b378-4f25-be1f-601a23c07c4d" />
